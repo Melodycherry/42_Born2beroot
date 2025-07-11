@@ -33,7 +33,7 @@
 
 ---
 
-### 🧠 Ce que j’ai appris
+🧠 **Ce que j’ai appris**
 
 - 🌐 Mise en place et configuration d’un OS serveur
 - 🧱 Gestion des disques, du partitionnement et du chiffrement (LVM)
